@@ -50,9 +50,11 @@ function createNote(body, notesArray) {
     return newNote;
 };
 
-function deleteNote() {
-    
-}
+function deleteNote(id, notesArray) {
+    for (let i = 0; i < notesArray.length; i++) {
+        
+    }
+};
 
 
 app.listen(PORT, () => {
