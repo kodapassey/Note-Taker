@@ -15,7 +15,9 @@
   - [Questions](#questions)
 
   ## Installation
-  npm i express, npm i --save-dev nodemon, npm init --y
+  - npm i express
+  - npm i --save-dev nodemon
+  - npm init --y
   
   ## Usage
   The usage of the Note Taker application is for anyone trying to stay productive and have all their notes written down somewhere that they can go back and review.
